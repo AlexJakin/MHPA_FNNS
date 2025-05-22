@@ -14,7 +14,7 @@ conda env create -f env.yml
 ```
 
 ```
-conda activate pyt_env
+conda activate MHPA
 ```
 
 # Other
