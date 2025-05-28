@@ -1,8 +1,6 @@
 # Paper
 
-This repo is the official code for 
-
-MHPA: Multi-channel Hybrid Perturbation Adversarial Embedding via Fixed Neural Network Steganography
+This repo is the official code for "MHPA: Multi-channel Hybrid Perturbation Adversarial Embedding via Fixed Neural Network Steganography".
 
 # Dependencies
 
